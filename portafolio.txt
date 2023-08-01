@@ -2,3 +2,5 @@ skills:
 
 html
 css
+bootstrap
+
