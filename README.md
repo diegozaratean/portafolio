@@ -14,6 +14,5 @@ conozco los comandos
 
 ```sh
 cd
-ls
-find
+
 ```
